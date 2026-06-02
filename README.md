@@ -13,6 +13,7 @@ towards the template repository.
 - [salads](salads)
 - [soups](soups)
 - [pasta](pasta)
+- [cakes](cakes)
 - [mains](mains)
 - [sides](sides)
 - [desserts](desserts)
